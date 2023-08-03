@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedma77068093" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedma77068093?logo=twitter&style=for-the-badge" alt="ahmedma77068093" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Web Development**
+- 🌱 I’m currently learning **Full Stack Development**
+
+- 💬 Ask me about **Frontend Development Technologies**
 
 - 📫 How to reach me **ahmedmaheraljwhry057@gmail.com**
 
@@ -29,22 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-maher77&" alt="ahmed-maher77" /></p>
 
-
-
-
-### Hi there 👋
-
-<!--
-**Ahmed-Maher77/Ahmed-Maher77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
