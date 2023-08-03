@@ -6,9 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedma77068093" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedma77068093?logo=twitter&style=for-the-badge" alt="ahmedma77068093" /></a> </p>
 
+- 🔭 I’m currently working on **MERN Stack Projects**
+
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Frontend Development Technologies**
+
+- 💬 Ask me about **𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: HTML/HTML5 - CSS/CSS3 - Responsive Design - JavaScript (DOM, BOM, ECMAScript6 (ES6)) - AJAX - JSON - jQuery - TypeScript - Bootstrap - SASS - SCSS - Pug.js - Gulp.js - JavaScript Unit Testing (Jest) - React.js - Redux - Next.js - Deal with Hosting - Command-Line. 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥: Git - GitHub**
 
 - 📫 How to reach me **ahmedmaheraljwhry057@gmail.com**
 
