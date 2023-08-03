@@ -36,6 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-maher77&show_icons=true&locale=en" alt="ahmed-maher77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-maher77&" alt="ahmed-maher77" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-maher77&" alt="ahmed-maher77" /></p>
-
