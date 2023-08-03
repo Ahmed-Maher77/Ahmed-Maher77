@@ -77,3 +77,9 @@ I'm a highly skilled Software Engineer specializing in Web Development with a pr
 <a href="https://twitter.com/ahmedma77068093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedma77068093" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/profile.php?id=100012154268952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100012154268952" height="30" width="40" /></a>
 </p>
+
+<p align="left">If you are seeking a talented, hardworking, quick learner, and team player, I am the ideal candidate for you. I am confident that Our cooperation will bring profit to your project, and I am fully committed to accomplishing all set objectives to the best of my abilities. so let’s keep in touch!
+</p>
+
+👀 Feel free to take a look at my Portfolio: 
+
