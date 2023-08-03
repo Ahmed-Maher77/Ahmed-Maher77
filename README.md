@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Maher Algohary</h1>
+<h1 align="center">Hello 👋, I'm Ahmed Maher Algohary</h1>
 <h3 align="center">Software Engineer | Frontend Developer</h3>
 <img align="right" alt="coding gif" width="400" src="https://iconscout.com/lottie/website-builder-5942159">
 
