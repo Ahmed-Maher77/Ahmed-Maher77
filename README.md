@@ -1,26 +1,25 @@
+<img alt="Developer Image" src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80">
 <h1 align="center">Hello 👋, I'm Ahmed Maher Algohary</h1>
 <h3 align="center">Software Engineer | Frontend Developer</h3>
-<img align="right" alt="coding gif" width="400" src="https://iconscout.com/lottie/website-builder-5942159">
+<img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-maher77&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-maher77" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ahmedma77068093" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedma77068093?logo=twitter&style=for-the-badge" alt="ahmedma77068093" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ahmedma7706809" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedma77068093?logo=twitter&style=for-the-badge" alt="ahmedma77068093" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
 
-- 💬 Ask me about **
-  𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: HTML/HTML5 - CSS/CSS3 - Responsive Design - JavaScript (DOM, BOM, ECMAScript6 (ES6)) - AJAX - JSON - jQuery - TypeScript - Bootstrap - SASS - SCSS - Pug.js - Gulp.js - JavaScript Unit Testing (Jest) - React.js - Redux - Next.js - Deal with Hosting - Command-Line.
-  𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥: Git - GitHub**
+- 💬 Ask me about **𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: HTML/HTML5 - CSS/CSS3 - Responsive Design - JavaScript (DOM, BOM, ECMAScript6 (ES6)) - AJAX - JSON - jQuery - TypeScript - Bootstrap - SASS - SCSS - Pug.js - Gulp.js - JavaScript Unit Testing (Jest) - React.js - Redux - Next.js - Deal with Hosting - Command-Line. 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥: Git - GitHub**
 
 - 📫 How to reach me **ahmedmaheraljwhry057@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmedma77068093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedma77068093" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-maher-algohary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-maher-algohary/" height="30" width="40" /></a>
+<a href="https://twitter.com/ahmedma77068093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedma77068093" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/profile.php?id=100012154268952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100012154268952" height="30" width="40" /></a>
 </p>
 
