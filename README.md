@@ -64,7 +64,7 @@ I'm a highly skilled Software Engineer specializing in Web Development with a pr
 -->
 
 
-<p ><img align="left"  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact" alt="ahmed-maher77" /></p>
+<p ><img align="left"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact" alt="ahmed-maher77" /></p>
 
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-maher77&show_icons=true&locale=en" alt="ahmed-maher77" /></p>
 
