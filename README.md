@@ -1,7 +1,7 @@
 ![photo-1534972195531-d756b9bfa9f2](https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/896ee8ba-0d98-4aec-b6b7-c7f2dbcef3f8)
 
 <h1 align="center">Hello 👋, I'm Ahmed Maher Algohary</h1>
-<h3 align="center">Software Engineer | Frontend Developer</h3>
+<h3 align="center">Software Engineer | Frontend Web Developer</h3>
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-maher77&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-maher77" /> </p>
