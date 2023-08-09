@@ -25,7 +25,7 @@ I'm a highly skilled Software Engineer specializing in Web Development with a pr
 
 
 <h1 align="left">✔️ Skills :</h1>
-<h3>𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</h3>
+<h3>𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:</h3>
 
 - HTML/HTML5
 - CSS/CSS3
@@ -47,7 +47,7 @@ I'm a highly skilled Software Engineer specializing in Web Development with a pr
 - Deal with Hosting
 - Command Line
 
-<h3>𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</h3>
+<h3>𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:</h3>
 
 - Firebase 
 - Node.js
@@ -64,9 +64,9 @@ I'm a highly skilled Software Engineer specializing in Web Development with a pr
 -->
 
 
-<p ><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact" alt="ahmed-maher77" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact" alt="ahmed-maher77" /></p>
 
-<p >&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=ahmed-maher77&show_icons=true&locale=en" alt="ahmed-maher77" /></p>
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-maher77&show_icons=true&locale=en" alt="ahmed-maher77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-maher77&" alt="ahmed-maher77" /></p>
 
