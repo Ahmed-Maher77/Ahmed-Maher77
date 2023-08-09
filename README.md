@@ -58,13 +58,7 @@ I'm a highly skilled Software Engineer specializing in Web Development with a pr
 - GitHub
 
 
-<!--
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/ahmedmaherv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/ahmedmaherv" /></a></p><br><br>
--->
-
-
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact" alt="ahmed-maher77" /></p>
+<p ><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact" alt="ahmed-maher77" /></p>
 
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-maher77&show_icons=true&locale=en" alt="ahmed-maher77" /></p>
 
