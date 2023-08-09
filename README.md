@@ -25,7 +25,7 @@ I'm a highly skilled Software Engineer specializing in Web Development with a pr
 
 
 <h1 align="left">✔️ Skills :</h1>
-<h3>𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:</h3>
+<h3>𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</h3>
 
 - HTML/HTML5
 - CSS/CSS3
@@ -47,7 +47,7 @@ I'm a highly skilled Software Engineer specializing in Web Development with a pr
 - Deal with Hosting
 - Command Line
 
-<h3>𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:</h3>
+<h3>𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</h3>
 
 - Firebase 
 - Node.js
