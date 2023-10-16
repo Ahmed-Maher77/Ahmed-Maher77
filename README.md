@@ -45,8 +45,6 @@ I am a Software Engineer specialized in Web Development with +2 years of experie
 - React.js
 - Redux
 - Next.js
-- Deal with Hosting
-- Command Line
 
 <h3>𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</h3>
 
@@ -58,6 +56,11 @@ I am a Software Engineer specialized in Web Development with +2 years of experie
 - Git
 - GitHub
 
+<h3>𝐎𝐭𝐡𝐞𝐫 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
+
+- Deal with Hosting
+- Command Line
+- Programming Languages (Python - C)
 
 <p ><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact" alt="ahmed-maher77" /></p>
 
