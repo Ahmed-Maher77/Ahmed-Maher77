@@ -17,7 +17,7 @@ I am a Software Engineer specialized in Web Development with +2 years of experie
 
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-maher77&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-maher77" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ahmedma7706809" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedma77068093?logo=twitter&style=for-the-badge" alt="ahmedma77068093" /></a> </p>
 
