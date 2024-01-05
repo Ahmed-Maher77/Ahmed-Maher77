@@ -1,6 +1,18 @@
-![photo-1534972195531-d756b9bfa9f2](https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/896ee8ba-0d98-4aec-b6b7-c7f2dbcef3f8)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+%F0%9F%96%90;This+is+Ahmed+Maher;Software+Engineer+%F0%9F%92%BB;Front+End+Developer&color=614CF7&weight=900&font=Fira%20Code&center=true&width=435&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
-<h1 align="center">Hello there 👋, I'm Ahmed Maher Algohary</h1>
+</p>
+☎️ Get in touch: &nbsp;
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-maher-algohary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-maher-algohary/" height="20" width="20" /></a> &nbsp;
+<a href="https://twitter.com/ahmedma77068093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedma77068093" height="20" width="20" /></a> &nbsp;
+<a href="https://fb.com/https://web.facebook.com/profile.php?id=100012154268952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100012154268952" height="20" width="20" /></a>
+</p>
+👀 Feel free to take a look at my Portfolio: 
+<p></p>
+
+
+<h1 align="center">Hello there 👋, I'm Ahmed Maher</h1>
 I am a Software Engineer specialized in Web Development with +2 years of experience in the software industry. Throughout my career, I have successfully navigated through all stages of the development cycle for dynamic web projects, including requirements gathering, design, development, testing, and deployment. And I am well-versed in the latest technologies and trends in the field of Web Development, allowing me to stay up-to-date and deliver cutting-edge solutions. As an avid learner, I am constantly seeking opportunities to expand my knowledge and gain valuable experience in order to build highly scalable and stable systems. And I’m an ambitious person, so I am looking forward to developing myself and acquiring more and more skills, whether technical or soft skills, that will enable the organization (company) I work for to achieve its goals. Strong information technology professional with a Bachelor's degree focused in Computer and Control Systems Engineering from Mansoura University. This educational background has equipped me with a solid understanding of fundamental concepts and principles, enabling me to tackle complex challenges with efficiency and precision.
 
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
