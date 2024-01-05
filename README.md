@@ -4,9 +4,9 @@
 
 </p>
 ☎️ Get in touch: &nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-maher-algohary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-maher-algohary/" height="20" width="20" /></a> &nbsp;
-<a href="https://twitter.com/ahmedma77068093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedma77068093" height="20" width="20" /></a> &nbsp;
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100012154268952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100012154268952" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/ahmed-maher-algohary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-maher-algohary/" height="20" width="20" /></a> &nbsp;
+<a href="https://twitter.com/AhmedMa77068093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedma77068093" height="20" width="20" /></a> &nbsp;
+<a href="https://web.facebook.com/profile.php?id=100012154268952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100012154268952" height="20" width="20" /></a>
 </p>
 👀 Feel free to take a look at my Portfolio: 
 <p></p>
@@ -83,9 +83,9 @@ I am a Software Engineer specialized in Web Development with +2 years of experie
 
 <h1 align="left">☎️ Get in touch :</h1>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-maher-algohary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-maher-algohary/" height="30" width="40" /></a>
-<a href="https://twitter.com/ahmedma77068093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedma77068093" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100012154268952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100012154268952" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-maher-algohary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-maher-algohary/" height="30" width="40" /></a>
+<a href="https://twitter.com/AhmedMa77068093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedma77068093" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100012154268952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100012154268952" height="30" width="40" /></a>
 </p>
 
 <p align="left">If you are seeking a talented, hardworking, quick learner, and team player, I am the ideal candidate for you. I am confident that Our cooperation will bring profit to your project, and I am fully committed to accomplishing all set objectives to the best of my abilities. so let’s keep in touch!
