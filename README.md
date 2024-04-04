@@ -19,7 +19,7 @@ I am a Software Engineer with expertise in Web Development, supported by a stron
 
 
 
-<p align="left"> <a href="https://twitter.com/ahmedma7706809" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedma77068093?logo=twitter&style=for-the-badge" alt="ahmedma77068093" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AhmedMa77068093" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedma77068093?logo=twitter&style=for-the-badge" alt="ahmedma77068093" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
