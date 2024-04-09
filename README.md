@@ -7,9 +7,9 @@
 
 📫 How to reach me: 
   - **Gmail** <a href="mailto: ahmedmaheraljwhry057@gmail.com" title="Go to Gmail" target="_blank"><img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/cc8ca688-6813-4560-bb86-7511be08d50d" width="30" height="30"></a>: &nbsp; ahmedmaheraljwhry057@gmail.com
-  - **LInkedIn** <a href="https://www.linkedin.com/in/ahmed-maher-algohary/" title="Go to LinkedIn" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-maher-algohary" height="15" width="15" /></a>: &nbsp; linkedin.com/in/ahmed-maher-algohary
+  - **LInkedIn** <a href="https://www.linkedin.com/in/ahmed-maher-algohary/" title="Go to LinkedIn" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-maher-algohary" height="15" width="15" /></a>: &nbsp; https://www.linkedin.com/in/ahmed-maher-algohary
 
-👀 Feel free to take a look at my **Portfolio** <img src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9555245a-d921-4960-b6c1-b0a443265d40" alt="portfolio" width="20" align="center">: &nbsp; ahmedmaher-portfolio.vercel.app
+👀 Feel free to take a look at my **Portfolio** <img src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9555245a-d921-4960-b6c1-b0a443265d40" alt="portfolio" width="20" align="center">: &nbsp; https://ahmedmaher-portfolio.vercel.app
 
 <!--------------------------------------- Bio --------------------------------------->
 
