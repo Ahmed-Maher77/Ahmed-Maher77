@@ -115,3 +115,17 @@ I am a Software Engineer with expertise in Web Development, supported by a stron
 <!--
 👀 Feel free to take a look at my **Portfolio** <img src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9555245a-d921-4960-b6c1-b0a443265d40" alt="portfolio" width="20" align="center">: &nbsp; https://ahmedmaher-portfolio.vercel.app/
 -->
+
+
+<div align="left">
+  <a href="mailto:ahmedmaher.dev1@gmail.com" title="gmail" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />  
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="linkedin" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+
+
