@@ -11,19 +11,17 @@
   <a href="https://ahmedmaher-portfolio.vercel.app" title="portfolio" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=F48024&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge"  />
   </a>
-  
   <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="linkedin" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge"  />
   </a>
-  
   <a href="mailto:ahmedmaher.dev1@gmail.com" title="gmail" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail badge"  />  
   </a>
-  
   <a href="https://wa.me/+201150383416" title="whatsapp" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp badge"  />
   </a>
 </div>
+<br/>
   <!-- - **Gmail** -->
   <!--<a href="mailto: ahmedmaher.dev1@gmail.com" title="Go to Gmail" target="_blank"><img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/cc8ca688-6813-4560-bb86-7511be08d50d" width="30" height="30"></a>-->
   <!-- :  ahmedmaher.dev1@gmail.com -->
@@ -36,7 +34,7 @@
 <!--------------------------------------- Bio --------------------------------------->
 
 <h1 align="center">Hello there 👋, I'm Ahmed Maher</h1>
-I am a Software Engineer with expertise in Web Development, supported by a strong educational background in Computer and Control Systems Engineering. Throughout my career, I have successfully navigated through all stages of the development cycle for dynamic web projects, including requirements gathering, design, development, testing, and deployment. I am well-versed in the latest technologies and trends in the field of Web Development, allowing me to stay up-to-date and deliver cutting-edge solutions. As an avid learner, I am constantly seeking opportunities to expand my knowledge and gain valuable experience in order to build highly scalable and stable systems. I’m an ambitious person, so I am looking forward to developing myself and acquiring more and more skills, whether technical or soft skills, that will enable the organization (company) I work for to achieve its goals. Strong information technology professional with a Bachelor's degree focused in Computer and Control Systems Engineering from Mansoura University. This educational background has equipped me with a solid understanding of fundamental concepts and principles, enabling me to tackle complex challenges with efficiency and precision.
+I am a Software Engineer specializing in Web Development, with a Bachelor's degree in Computer and Control Systems Engineering from Mansoura University. I have hands-on experience across the full development lifecycle for dynamic web projects, from requirements gathering and design to development, testing, and deployment. I stay current with modern web technologies and industry trends to deliver scalable, stable, and high-quality solutions. As an ambitious, continuous learner, I actively strengthen both my technical and soft skills to solve complex challenges efficiently and contribute to organizational goals.
 <hr>
 <!--------------------------------------- Tech Skills --------------------------------------->
 <h1 align="left">✅ Technical Skills:</h1>
