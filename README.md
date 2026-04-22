@@ -34,7 +34,7 @@
 <!--------------------------------------- Bio --------------------------------------->
 <br/>
 <h1 align="center">Hello there 👋, I'm Ahmed Maher</h1>
-I am a Software Engineer specialized in Web Development with <strong>3+ years of experience</strong> delivering modern web solutions. I hold a Bachelor's degree in Computer and Control Systems Engineering from Mansoura University and have hands-on experience across the full development lifecycle from requirements gathering and design to development, testing, and deployment. I stay current with modern technologies and industry trends to build <strong>scalable, stable, and high-quality systems</strong>. As a continuous learner, I actively strengthen both technical and soft skills to solve complex challenges efficiently and contribute to organizational goals.
+I am a Software Engineer specialized in Web Development with <strong>3+ years of experience</strong> delivering modern web solutions. I hold a Bachelor's degree in Computer and Control Systems Engineering from Mansoura University and have hands-on experience across the full development lifecycle from requirements gathering and design to development, testing, and deployment. I stay current with modern technologies and industry trends to build <strong>scalable, stable, secure, user-centered, accessible, and high-quality systems</strong>. As a continuous learner, I actively strengthen both technical and soft skills to solve complex challenges efficiently and contribute to organizational goals.
 <hr>
 <!--------------------------------------- Tech Skills --------------------------------------->
 <h1 align="left">✅ Technical Skills:</h1>
