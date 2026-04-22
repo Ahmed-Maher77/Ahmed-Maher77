@@ -142,7 +142,7 @@ I am a Software Engineer specialized in Web Development with <strong>3+ years of
 <h2 align="left">📊 GitHub Analytics</h2>
 <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed-maher77&theme=tokyonight" alt="Ahmed Maher languages by repo" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed-maher77&theme=tokyonight" alt="Ahmed Maher languages by commits" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed-maher77&theme=tokyonight" alt="Ahmed Maher GitHub stats card" />
 </p>
 
 <p align="center">
