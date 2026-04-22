@@ -34,7 +34,7 @@
 <!--------------------------------------- Bio --------------------------------------->
 <br/>
 <h1 align="center">Hello there 👋, I'm Ahmed Maher</h1>
-I am a **Software Engineer** specializing in **Web Development** with **3+ years of experience** delivering modern web solutions. I hold a **Bachelor's degree in Computer and Control Systems Engineering** from **Mansoura University** and have hands-on experience across the **full development lifecycle** from requirements gathering and design to development, testing, and deployment. I stay current with modern technologies and industry trends to build **scalable, stable, and high-quality systems**. As a continuous learner, I actively strengthen both technical and soft skills to solve complex challenges efficiently and contribute to organizational goals.
+I am a **Software Engineer** specialized in **Web Development** with **3+ years of experience** delivering modern web solutions. I hold a **Bachelor's degree in Computer and Control Systems Engineering** from **Mansoura University** and have hands-on experience across the **full development lifecycle** from requirements gathering and design to development, testing, and deployment. I stay current with modern technologies and industry trends to build **scalable, stable, and high-quality systems**. As a continuous learner, I actively strengthen both technical and soft skills to solve complex challenges efficiently and contribute to organizational goals.
 <hr>
 <!--------------------------------------- Tech Skills --------------------------------------->
 <h1 align="left">✅ Technical Skills:</h1>
@@ -140,7 +140,11 @@ I am a **Software Engineer** specializing in **Web Development** with **3+ years
 <!--------------------------------------- Graphs --------------------------------------->
 <hr>
 <p>
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact" alt="ahmed-maher77" />
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&show_icons=true&locale=en&layout=compact&langs_count=12&count_private=true&hide_border=true" alt="Ahmed Maher top languages" />
+</p>
+
+<p>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=ahmed-maher77&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" alt="Ahmed Maher GitHub stats" />
 </p>
 
 <!--
