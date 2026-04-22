@@ -140,7 +140,7 @@ I am a Software Engineer specialized in Web Development with <strong>3+ years of
 <!--------------------------------------- Graphs --------------------------------------->
 <hr>
 <p>
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-maher77&layout=compact&langs_count=8&hide_border=true" alt="Ahmed Maher top languages" />
+  <img width="500px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed-maher77&theme=default" alt="Ahmed Maher top languages" />
 </p>
 
 <p>
