@@ -32,7 +32,7 @@
 👀 Feel free to take a look at my **Portfolio**<!--<img src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9555245a-d921-4960-b6c1-b0a443265d40" alt="portfolio" width="20" align="center">-->: https://ahmedmaher-portfolio.vercel.app
 
 <!--------------------------------------- Bio --------------------------------------->
-
+<br/>
 <h1 align="center">Hello there 👋, I'm Ahmed Maher</h1>
 I am a Software Engineer specializing in Web Development, with a Bachelor's degree in Computer and Control Systems Engineering from Mansoura University. I have hands-on experience across the full development lifecycle for dynamic web projects, from requirements gathering and design to development, testing, and deployment. I stay current with modern web technologies and industry trends to deliver scalable, stable, and high-quality solutions. As an ambitious, continuous learner, I actively strengthen both my technical and soft skills to solve complex challenges efficiently and contribute to organizational goals.
 <hr>
@@ -40,43 +40,45 @@ I am a Software Engineer specializing in Web Development, with a Bachelor's degr
 <h1 align="left">✅ Technical Skills:</h1>
 <!--------------------------------------- GIF --------------------------------------->
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3>𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</h3>
+<h3>Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-0F172A?style=for-the-badge" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/ECMAScript%20ES6+-0F172A?style=for-the-badge" alt="ECMAScript ES6+" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" alt="Pug.js" />
+  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp.js" />
+  <img src="https://img.shields.io/badge/AJAX-0F172A?style=for-the-badge" alt="AJAX" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+</p>
 
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/0758fc66-c2a0-42a6-8ffc-8d6eec8ce486" alt="html5" width="15" height="15"/>-->HTML/HTML5
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/6d7f127b-1250-4770-bd07-0f8417c734c7" alt="css3" width="15" height="15"/> -->CSS/CSS3
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9d1b4d6d-9f18-47b2-b9cb-2fcd1c0a5445" alt="responsive design" width="15" height="15"/> -->Responsive Design
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9ad7b336-0ffe-46e1-b567-d7cc11e6d0fd" alt="javascript" width="15" height="15"/> -->JavaScript
-- OOP
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/5cfd8954-6681-45e9-8b12-5df8e1b02736" alt="ecmascript" width="15" height="15"/> -->ECMAScript (ES6+)
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/e118a980-b4bb-4fee-90d7-c609feb47ccf" alt="ajax" width="15" height="15"/> -->AJAX
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/b78a9504-ee73-429f-a639-a07cad009b45" alt="json" width="15" height="15"/> -->JSON
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/372b6c23-c03b-40a4-bd42-1fbdda1d0495" alt="jquery" width="15" height="15"/> -->jQuery
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/15f2cd8e-d702-41db-be62-94b773134e52" alt="typescript" width="15" height="15"/> -->TypeScript
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/99b589c1-3d83-4e62-b828-d27011412fe8" alt="bootstrap" width="15" height="15"/> -->Bootstrap
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/1bc1a894-68e9-4604-b4bc-4c9527f66c02" alt="sass" width="15" height="15"/> -->Sass
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/029eedae-cd4a-48ee-ba75-4d1b1ca5f423" alt="pug.js" width="15" height="15"/> -->Pug.js
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/589cfdc5-c886-46b4-b165-1947925cf2dc" alt="gulp.js" width="15" height="15"/> -->Gulp.js
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/b28b33a1-0a73-4961-b915-d76ed18cf0f4" alt="jest" width="15" height="15"/> -->Unit Testing (Jest)
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/018ee73c-2ea3-4256-92f5-f1f6ffee8d5d" alt="react.js" width="15" height="15"/> -->React.js
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/488a106a-b07f-4ca3-8fd1-adeadc2b753d" alt="redux" width="15" height="15"/> -->Redux
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/f1a04853-0229-4336-9f6f-1409a79b48af" alt="next.js" width="15" height="15"/> -->Next.js
+<h3>Backend and Database</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-Basic%20Knowledge-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+</p>
 
-<h3>𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</h3>
-
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/2f76dfd4-57eb-4413-86ae-98fa68015536" alt="firebase" width="20" height="20"/> -->Firebase
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/bf4db26f-7495-4fe4-b51a-118c54b5214c" alt="node.js" width="20" height="20"/> -->Node.js
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/7394542b-10f9-48a1-9dfb-5dbfbf8808e5" alt="ms sql" width="20" height="20"/> -->Microsoft SQL Server [Basic Knowledge]
-
-<h3>𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹:</h3>
-
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/8f835bbb-030a-44fd-bb94-9e3bd3c188e3" alt="git" width="15" height="15"/> -->Git
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/6902b32d-0eda-4425-847c-940f0be6da3b" alt="github" width="15" height="15"/> -->GitHub
-
-<h3>𝐎𝐭𝐡𝐞𝐫 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
-
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/19ab987c-0567-422e-9e98-9b62ff3b75fa" alt="deal with hosting" width="15" height="15"/> -->Deal with Hosting
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/115ccd16-ca78-4837-a3eb-b21170e7bdae" alt="command line" width="15" height="15"/> -->Command Line
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9acfc1fb-9e05-41df-98fa-000949d0ce70" alt="networking fundamentals" width="15" height="15"/> -->Networking Fundamentals
+<h3>Tools and Engineering Practices</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Unit%20Testing%20(Jest)-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Unit Testing (Jest)" />
+  <img src="https://img.shields.io/badge/OOP-0F172A?style=for-the-badge" alt="OOP" />
+  <img src="https://img.shields.io/badge/Command%20Line-4D4D4D?style=for-the-badge" alt="Command Line" />
+  <img src="https://img.shields.io/badge/Hosting-2F855A?style=for-the-badge" alt="Deal with Hosting" />
+  <img src="https://img.shields.io/badge/Networking%20Fundamentals-1D4ED8?style=for-the-badge" alt="Networking Fundamentals" />
+</p>
 
 <!--------------------------------------- Graphs --------------------------------------->
 <hr>
