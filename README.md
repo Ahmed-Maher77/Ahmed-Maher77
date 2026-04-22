@@ -5,11 +5,33 @@
 
 <!--------------------------------------- Contact --------------------------------------->
 
-📫 How to reach me: 
-  - **Gmail**<!--<a href="mailto: ahmedmaher.dev1@gmail.com" title="Go to Gmail" target="_blank"><img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/cc8ca688-6813-4560-bb86-7511be08d50d" width="30" height="30"></a>-->:  ahmedmaher.dev1@gmail.com
-  - **LInkedIn**<!--<a href="https://www.linkedin.com/in/ahmed-maher-algohary/" title="Go to LinkedIn" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-maher-algohary" height="15" width="15" /></a>-->:  https://www.linkedin.com/in/ahmed-maher-algohary
+📫 How to reach me:
 
-👀 Feel free to take a look at my **Portfolio**<!--<img src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9555245a-d921-4960-b6c1-b0a443265d40" alt="portfolio" width="20" align="center">-->:  https://ahmedmaher-portfolio.vercel.app
+<div align="left">
+  <a href="https://ahmedmaher-portfolio.vercel.app" title="portfolio" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=F48024&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge"  />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="linkedin" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge"  />
+  </a>
+  
+  <a href="mailto:ahmedmaher.dev1@gmail.com" title="gmail" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail badge"  />  
+  </a>
+  
+  <a href="https://wa.me/+201150383416" title="whatsapp" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp badge"  />
+  </a>
+</div>
+  <!-- - **Gmail** -->
+  <!--<a href="mailto: ahmedmaher.dev1@gmail.com" title="Go to Gmail" target="_blank"><img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/cc8ca688-6813-4560-bb86-7511be08d50d" width="30" height="30"></a>-->
+  <!-- :  ahmedmaher.dev1@gmail.com -->
+  <!-- - **LInkedIn** -->
+  <!--<a href="https://www.linkedin.com/in/ahmed-maher-algohary/" title="Go to LinkedIn" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-maher-algohary" height="15" width="15" /></a>-->
+  <!-- :  https://www.linkedin.com/in/ahmed-maher-algohary -->
+
+👀 Feel free to take a look at my **Portfolio**<!--<img src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9555245a-d921-4960-b6c1-b0a443265d40" alt="portfolio" width="20" align="center">-->: https://ahmedmaher-portfolio.vercel.app
 
 <!--------------------------------------- Bio --------------------------------------->
 
@@ -22,7 +44,7 @@ I am a Software Engineer with expertise in Web Development, supported by a stron
 <img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3>𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</h3>
 
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/0758fc66-c2a0-42a6-8ffc-8d6eec8ce486" alt="html5" width="15" height="15"/>-->HTML/HTML5 
+- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/0758fc66-c2a0-42a6-8ffc-8d6eec8ce486" alt="html5" width="15" height="15"/>-->HTML/HTML5
 - <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/6d7f127b-1250-4770-bd07-0f8417c734c7" alt="css3" width="15" height="15"/> -->CSS/CSS3
 - <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9d1b4d6d-9f18-47b2-b9cb-2fcd1c0a5445" alt="responsive design" width="15" height="15"/> -->Responsive Design
 - <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9ad7b336-0ffe-46e1-b567-d7cc11e6d0fd" alt="javascript" width="15" height="15"/> -->JavaScript
@@ -43,14 +65,14 @@ I am a Software Engineer with expertise in Web Development, supported by a stron
 
 <h3>𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:</h3>
 
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/2f76dfd4-57eb-4413-86ae-98fa68015536" alt="firebase" width="20" height="20"/> -->Firebase 
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/bf4db26f-7495-4fe4-b51a-118c54b5214c" alt="node.js" width="20" height="20"/> -->Node.js 
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/7394542b-10f9-48a1-9dfb-5dbfbf8808e5" alt="ms sql" width="20" height="20"/> -->Microsoft SQL Server [Basic Knowledge] 
+- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/2f76dfd4-57eb-4413-86ae-98fa68015536" alt="firebase" width="20" height="20"/> -->Firebase
+- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/bf4db26f-7495-4fe4-b51a-118c54b5214c" alt="node.js" width="20" height="20"/> -->Node.js
+- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/7394542b-10f9-48a1-9dfb-5dbfbf8808e5" alt="ms sql" width="20" height="20"/> -->Microsoft SQL Server [Basic Knowledge]
 
 <h3>𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹:</h3>
 
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/8f835bbb-030a-44fd-bb94-9e3bd3c188e3" alt="git" width="15" height="15"/> -->Git 
-- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/6902b32d-0eda-4425-847c-940f0be6da3b" alt="github" width="15" height="15"/> -->GitHub 
+- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/8f835bbb-030a-44fd-bb94-9e3bd3c188e3" alt="git" width="15" height="15"/> -->Git
+- <!--<img align="center" src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/6902b32d-0eda-4425-847c-940f0be6da3b" alt="github" width="15" height="15"/> -->GitHub
 
 <h3>𝐎𝐭𝐡𝐞𝐫 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
 
@@ -78,9 +100,8 @@ I am a Software Engineer with expertise in Web Development, supported by a stron
 <p align="left">If you are seeking a talented, hardworking, quick learner, and team player, I am the ideal candidate for you. I am confident that Our cooperation will bring profit to your project, and I am fully committed to accomplishing all set objectives to the best of my abilities. so let’s keep in touch!
 </p>
 
-
 <!--------------------------------------- Comments --------------------------------------->
-<!-- <p align="left"> <a href="https://twitter.com/AhmedMa77068093" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedma77068093?logo=twitter&style=for-the-badge" alt="ahmedma77068093" /></a> </p> 
+<!-- <p align="left"> <a href="https://twitter.com/AhmedMa77068093" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedma77068093?logo=twitter&style=for-the-badge" alt="ahmedma77068093" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
@@ -91,7 +112,7 @@ I am a Software Engineer with expertise in Web Development, supported by a stron
 - ⚡ Fun fact **I think I am funny**
 -->
 <!-- <a href="https://twitter.com/AhmedMa77068093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedma77068093" height="20" width="20" /></a> &nbsp;
-<a href="https://web.facebook.com/profile.php?id=100012154268952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100012154268952" height="20" width="20" /></a> 
+<a href="https://web.facebook.com/profile.php?id=100012154268952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100012154268952" height="20" width="20" /></a>
 </p>
 -->
 <!--
@@ -116,24 +137,20 @@ I am a Software Engineer with expertise in Web Development, supported by a stron
 👀 Feel free to take a look at my **Portfolio** <img src="https://github.com/Ahmed-Maher77/Ahmed-Maher77/assets/112467034/9555245a-d921-4960-b6c1-b0a443265d40" alt="portfolio" width="20" align="center">: &nbsp; https://ahmedmaher-portfolio.vercel.app/
 -->
 
-
 <div align="left">
-  <a href="https://ahmedmaher-portfolio.vercel.app" title="portfolio" target="_blank">
+  <a href="https://ahmedmaher-portfolio.vercel.app" title="portfolio" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=F48024&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge"  />
   </a>
   
-  <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-maher-algohary" title="linkedin" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin badge"  />
   </a>
   
-  <a href="mailto:ahmedmaher.dev1@gmail.com" title="gmail" target="_blank">
+  <a href="mailto:ahmedmaher.dev1@gmail.com" title="gmail" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail badge"  />  
   </a>
   
-  <a href="https://wa.me/201016292355" title="whatsapp" target="_blank">
+  <a href="https://wa.me/+201150383416" title="whatsapp" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp badge"  />
   </a>
 </div>
-
-
-
