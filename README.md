@@ -142,6 +142,17 @@ I am a Software Engineer specialized in Web Development with <strong>3+ years of
   <img src="https://img.shields.io/badge/Networking%20Fundamentals-1D4ED8?style=for-the-badge" alt="Networking Fundamentals" />
 </p>
 
+<h3>AI, Machine Learning, and Computer Vision</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge" alt="Transformers" />
+
+</p>
+
 <!--------------------------------------- Graphs --------------------------------------->
 <hr>
 <h2 align="left">📊 GitHub Analytics</h2>
